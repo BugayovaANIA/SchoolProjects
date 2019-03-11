@@ -1,0 +1,8 @@
+import GrTeleType.GrTeleType;
+
+public class TeleType{
+
+    public static void main(String[] args) {
+        new GrTeleType();
+    }
+}
